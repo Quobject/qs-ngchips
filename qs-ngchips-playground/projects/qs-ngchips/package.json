@@ -1,0 +1,24 @@
+{
+  "name": "qs-ngchips",
+  "version": "0.0.1",
+  "author": "Matthias Ludwig <mludwig@quobject.io>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Quobject/qs-ngchips.git"
+  },
+  "keywords": [
+    "angular tag input",
+    "tag input component",
+    "material tag input",
+    "angular chips component",
+    "material chips"
+  ],
+  "peerDependencies": {
+    "@angular/animations": "^6.0.0",
+    "@angular/common": "^6.0.0",
+    "@angular/core": "^6.0.0",
+    "@angular/forms": "^6.0.0",
+    "rxjs": "^6.1.0"
+  }
+}
