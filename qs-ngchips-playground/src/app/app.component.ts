@@ -6,11 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'qs';
   items = ['Pizza', 'Pasta', 'Parmesan'];
-
-  onFormChange() {
-    console.log('onFormChange');
-  }
-
+ 
 }

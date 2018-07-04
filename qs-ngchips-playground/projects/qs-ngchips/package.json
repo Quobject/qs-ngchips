@@ -1,6 +1,6 @@
 {
   "name": "qs-ngchips",
-  "version": "0.0.2",
+  "version": "6.0.0",
   "author": "Matthias Ludwig <mludwig@quobject.io>",
   "license": "MIT",
   "repository": {
@@ -15,6 +15,7 @@
     "material chips"
   ],
   "peerDependencies": {
+    "ng2-material-dropdown": "^0.10.0",
     "@angular/animations": "^6.0.0",
     "@angular/common": "^6.0.0",
     "@angular/core": "^6.0.0",
