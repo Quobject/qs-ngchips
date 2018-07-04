@@ -1,15 +1,7 @@
-https://github.com/angular/angular-cli/wiki/stories-create-library
+# qs-ngchips
+from https://github.com/Gbuomprisco/ngx-chips/
 
-cd /mnt/c/Development/quobject.visualstudio.com/qs-ngchips/qs-ngchips-playground;
+created for Angular 6 using 
+[Library support in Angular CLI 6](https://github.com/angular/angular-cli/wiki/stories-create-library)
 
-# terminal 1:
-ng build qs-ngchips
-
-# terminal 1:
-ng serve
-
-
-# terminal 1 publish:
-ng build qs-ngchips --prod
-cd dist/qs-ngchips
-npm publish
+[nmp](https://www.npmjs.com/package/qs-ngchips)
